@@ -1,5 +1,5 @@
 {
-    "name": "api-ecosystem-for-laravel/dingo-api",
+    "name": "martinsr/dingo-api-l11",
     "description": "A RESTful API package for the Laravel and Lumen frameworks.",
     "keywords": [
         "api",
@@ -14,7 +14,7 @@
     }],
     "require": {
         "php": "^8.0",
-        "dingo/blueprint": "^0.4.5",
+        "martinsr/dingo-blueprint-l11": "^1",
         "illuminate/routing": "^9.0|^10.0|^11.0",
         "illuminate/support": "^9.0|^10.0|^11.0",
         "league/fractal": "^0.20"
